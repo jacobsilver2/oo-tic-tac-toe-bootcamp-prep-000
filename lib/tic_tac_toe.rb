@@ -57,7 +57,7 @@ class TicTacToe
     else
       turn
     end
-    return index
+    
   end
 
 end
